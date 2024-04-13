@@ -1,4 +1,4 @@
-# CreditCardFraud
+# Credit Card Fraud Detection with Deep Learning
 
 ## Context :
   + It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
@@ -8,6 +8,12 @@
 
 ## Machine Learning Model Used
   + Convolutional Neural Network
+
+## Steps Followed
+  + ⁠Process Data: Prepare and clean data for analysis.
+  + Build Deep Learning Model: Experiment with different architectures and fine-tune parameters.
+  + Train and Validate: Split data strategically and address class imbalance.
+  + Evaluate Performance: Focus on AUC-ROC, with additional metrics for better understanding.
 
 ## Dataset Description
  + Dataset Link - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
